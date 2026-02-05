@@ -47,7 +47,7 @@ docker-compose up -d
 | **MongoDB** | 27017 | [mongodb/README.md](./mongodb/README.md) |
 | **InfluxDB** | 8086 | [influxdb/README.md](./influxdb/README.md) |
 | **Docker Registry** | 5000 | [registry/README.md](./registry/README.md) |
-| **Docker Install (Offline)** | - | [docker_install(no enternet)/README.md](./docker_install(no%20enternet)/README.md) |
+| **Docker Install (Off-line)** | - | [docker_install(no enternet)/README.md](./docker_install(no%20enternet)/README.md) |
 
 ## 🔧 Common Notes
 
